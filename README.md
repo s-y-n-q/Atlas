@@ -1,5 +1,8 @@
 # Atlas
 One of the first published content warning mods (posted on my other old deleted account)
+
+Source will be published soon i think
+
 ![6](https://github.com/user-attachments/assets/e45d4bc2-fc64-4650-969e-0a143645efd6)
 ![image](https://github.com/user-attachments/assets/d4479d89-81f5-4147-9498-b561767948d3)
 # 1.4.0 Changelog
