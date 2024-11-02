@@ -4,7 +4,7 @@ One of the first published content warning mods (posted on my other old deleted 
 ![image](https://github.com/user-attachments/assets/d4479d89-81f5-4147-9498-b561767948d3)
 # 1.4.0 Changelog
 [Change Log]
-(General) Added Change Log Menu
+```(General) Added Change Log Menu
 (Lobby) Added Crash All
 (Lobby) Added Information
 (Lobby) Added Next Day
